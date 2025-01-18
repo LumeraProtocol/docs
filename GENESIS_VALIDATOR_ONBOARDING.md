@@ -1,8 +1,8 @@
-# Genesis Validator Onboarding Guide for Pastel Network 2.0 (Lumera Network)
+# Genesis Validator Onboarding Guide for Lumera Protocol
 
 ## Introduction
 
-This guide provides step-by-step instructions for validators who wish to join Pastel Network 2.0 (Lumera Network) at genesis. Please follow each step carefully to ensure a smooth onboarding process.
+This guide provides step-by-step instructions for validators who wish to join Lumera Protocol at genesis. Please follow each step carefully to ensure a smooth onboarding process.
 
 ## Step 1: Prerequisites
 
